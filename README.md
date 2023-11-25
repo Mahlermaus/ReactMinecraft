@@ -1,2 +1,2 @@
 # ReactMinecraft
-Minecraft clone made with React
+Minecraft clone made with Vite and THREE.js
